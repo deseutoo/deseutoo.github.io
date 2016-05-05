@@ -1,4 +1,4 @@
-# Guia Campus
+# Too
 
 Start Bootstrap was created by and is maintained by [**David Miller**](https://github.com/davidtmiller) and modified by **Allan David** and **Miguel Péres** to be used in the Guia Campus project.
 
